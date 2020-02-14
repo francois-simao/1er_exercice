@@ -1,0 +1,54 @@
+body
+{
+    width: 90%;
+    margin: auto;
+}
+h1
+{
+    color: blue;
+    font-family: Comic Sans MS;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 38px;
+    font-size: 40px;
+}
+h2
+{
+    color: darkgreen;
+    background-color: chartreuse;
+    font-style: italic;
+    box-shadow: 4px 4px 0px darkgreen;
+    font-size: 30px;
+}
+header
+{
+    text-align: center;
+    position: relative;
+    margin-bottom: 71px;
+    height: 90px;
+}
+ul
+{
+    list-style: none;
+    list-style-type: circle;
+}
+a
+{
+    font-style: normal;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.photo
+{
+    border-radius: 15px;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+p
+{
+    font-size: 20px;
+}
